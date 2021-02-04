@@ -1,4 +1,4 @@
-#1. reads in czi files with the nucleus stained in one channel and whole cells visible another
+#1. reads in czi files with the nucleus stained in one channel and whole cells visible in another
 #2. measures intensity and area of cells, nuclei, and cytosol in the channels of interest
 #3. outputs measurements as a csv file
 
